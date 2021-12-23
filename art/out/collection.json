@@ -1,11 +1,11 @@
 [
     [
         {
-            "value": "City",
+            "value": "Mountains",
             "trait_type": "Background"
         },
         {
-            "value": "Orange",
+            "value": "Blue",
             "trait_type": "Body"
         },
         {
@@ -13,11 +13,11 @@
             "trait_type": "Role"
         },
         {
-            "value": "Sunglasses",
+            "value": "Closed",
             "trait_type": "Eyes"
         },
         {
-            "value": "Whistle",
+            "value": "Smile",
             "trait_type": "Mouth"
         },
         {
@@ -31,7 +31,7 @@
             "trait_type": "Background"
         },
         {
-            "value": "Purple",
+            "value": "Green",
             "trait_type": "Body"
         },
         {
@@ -40,32 +40,6 @@
         },
         {
             "value": "Cool",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Smile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "Wizard",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Beach",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Gray",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Closed",
             "trait_type": "Eyes"
         },
         {
@@ -79,7 +53,7 @@
     ],
     [
         {
-            "value": "Sky",
+            "value": "Beach",
             "trait_type": "Background"
         },
         {
@@ -95,7 +69,7 @@
             "trait_type": "Eyes"
         },
         {
-            "value": "Serious",
+            "value": "Open",
             "trait_type": "Mouth"
         },
         {
@@ -105,11 +79,11 @@
     ],
     [
         {
-            "value": "Park",
+            "value": "Beach",
             "trait_type": "Background"
         },
         {
-            "value": "Red",
+            "value": "Green",
             "trait_type": "Body"
         },
         {
@@ -125,137 +99,7 @@
             "trait_type": "Mouth"
         },
         {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Beach",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Red",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Round",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Serious",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Park",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Purple",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Sunglasses",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Smile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Mountains",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Orange",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Closed",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "HalfSmile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Beach",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Pink",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Round",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "HalfSmile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Rainbow",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Purple",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Cool",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Serious",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "Pirate",
+            "value": "Chef",
             "trait_type": "Hat"
         }
     ],
@@ -265,137 +109,7 @@
             "trait_type": "Background"
         },
         {
-            "value": "Gray",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Cool",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Smile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "Pirate",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Sky",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Green",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Round",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Whistle",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Rainbow",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Red",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Cool",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "HalfSmile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Beach",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Pink",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Closed",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Whistle",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "City",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Purple",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Cool",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Whistle",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "City",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Red",
+            "value": "Orange",
             "trait_type": "Body"
         },
         {
@@ -407,69 +121,17 @@
             "trait_type": "Eyes"
         },
         {
-            "value": "Serious",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "Chef",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Mountains",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Green",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Closed",
-            "trait_type": "Eyes"
-        },
-        {
             "value": "HalfSmile",
             "trait_type": "Mouth"
         },
         {
-            "value": "none",
+            "value": "Wizard",
             "trait_type": "Hat"
         }
     ],
     [
         {
-            "value": "Beach",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Red",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Cool",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "HalfSmile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "City",
+            "value": "Park",
             "trait_type": "Background"
         },
         {
@@ -481,7 +143,7 @@
             "trait_type": "Role"
         },
         {
-            "value": "Closed",
+            "value": "Cool",
             "trait_type": "Eyes"
         },
         {
@@ -489,91 +151,13 @@
             "trait_type": "Mouth"
         },
         {
-            "value": "Irish",
+            "value": "Viking",
             "trait_type": "Hat"
         }
     ],
     [
         {
-            "value": "Rainbow",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Red",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Closed",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Serious",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Beach",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Purple",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Closed",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "HalfSmile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "City",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Pink",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Sunglasses",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Smile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Beach",
+            "value": "Goo",
             "trait_type": "Background"
         },
         {
@@ -593,7 +177,111 @@
             "trait_type": "Mouth"
         },
         {
-            "value": "Wizard",
+            "value": "Pirate",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "City",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Purple",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Round",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Open",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Park",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Pink",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Round",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Smile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "City",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Red",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Sunglasses",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Serious",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "City",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Gray",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Sunglasses",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "HalfSmile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Irish",
             "trait_type": "Hat"
         }
     ],
@@ -611,7 +299,33 @@
             "trait_type": "Role"
         },
         {
-            "value": "Closed",
+            "value": "Sunglasses",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Open",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "City",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Purple",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Sunglasses",
             "trait_type": "Eyes"
         },
         {
@@ -619,7 +333,7 @@
             "trait_type": "Mouth"
         },
         {
-            "value": "Chef",
+            "value": "none",
             "trait_type": "Hat"
         }
     ],
@@ -629,7 +343,7 @@
             "trait_type": "Background"
         },
         {
-            "value": "Blue",
+            "value": "Gray",
             "trait_type": "Body"
         },
         {
@@ -645,33 +359,7 @@
             "trait_type": "Mouth"
         },
         {
-            "value": "Wizard",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "City",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Red",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Cool",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Open",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "Viking",
+            "value": "Pirate",
             "trait_type": "Hat"
         }
     ],
@@ -681,7 +369,7 @@
             "trait_type": "Background"
         },
         {
-            "value": "Blue",
+            "value": "Purple",
             "trait_type": "Body"
         },
         {
@@ -697,13 +385,13 @@
             "trait_type": "Mouth"
         },
         {
-            "value": "none",
+            "value": "Irish",
             "trait_type": "Hat"
         }
     ],
     [
         {
-            "value": "Mountains",
+            "value": "Park",
             "trait_type": "Background"
         },
         {
@@ -723,32 +411,6 @@
             "trait_type": "Mouth"
         },
         {
-            "value": "Pirate",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Beach",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Orange",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Round",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Smile",
-            "trait_type": "Mouth"
-        },
-        {
             "value": "Irish",
             "trait_type": "Hat"
         }
@@ -756,32 +418,6 @@
     [
         {
             "value": "Beach",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Pink",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Sunglasses",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "HalfSmile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "Irish",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "City",
             "trait_type": "Background"
         },
         {
@@ -793,25 +429,25 @@
             "trait_type": "Role"
         },
         {
-            "value": "Round",
+            "value": "Cool",
             "trait_type": "Eyes"
         },
         {
-            "value": "Serious",
+            "value": "Smile",
             "trait_type": "Mouth"
         },
         {
-            "value": "Irish",
+            "value": "Pirate",
             "trait_type": "Hat"
         }
     ],
     [
         {
-            "value": "Mountains",
+            "value": "Beach",
             "trait_type": "Background"
         },
         {
-            "value": "Blue",
+            "value": "Purple",
             "trait_type": "Body"
         },
         {
@@ -819,11 +455,63 @@
             "trait_type": "Role"
         },
         {
-            "value": "Closed",
+            "value": "Sunglasses",
             "trait_type": "Eyes"
         },
         {
-            "value": "Open",
+            "value": "Smile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Pirate",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Rainbow",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Red",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Round",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Whistle",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Wizard",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Beach",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Green",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Cool",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "HalfSmile",
             "trait_type": "Mouth"
         },
         {
@@ -837,6 +525,240 @@
             "trait_type": "Background"
         },
         {
+            "value": "Pink",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Closed",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Smile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Irish",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Park",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Green",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Cool",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Smile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Mountains",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Green",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Round",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Open",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Pirate",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Sky",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Gray",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Round",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "HalfSmile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Beach",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Orange",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Sunglasses",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Smile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "City",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Pink",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Sunglasses",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Serious",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "City",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Red",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Cool",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Smile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "City",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Blue",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Cool",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Smile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Viking",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "City",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Gray",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Closed",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Smile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Chef",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Beach",
+            "trait_type": "Background"
+        },
+        {
             "value": "Purple",
             "trait_type": "Body"
         },
@@ -849,17 +771,43 @@
             "trait_type": "Eyes"
         },
         {
-            "value": "Whistle",
+            "value": "Serious",
             "trait_type": "Mouth"
         },
         {
-            "value": "none",
+            "value": "Wizard",
             "trait_type": "Hat"
         }
     ],
     [
         {
-            "value": "Sky",
+            "value": "Beach",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Red",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Sunglasses",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "HalfSmile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Pirate",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Mountains",
             "trait_type": "Background"
         },
         {
@@ -879,7 +827,7 @@
             "trait_type": "Mouth"
         },
         {
-            "value": "none",
+            "value": "Wizard",
             "trait_type": "Hat"
         }
     ],
@@ -889,7 +837,7 @@
             "trait_type": "Background"
         },
         {
-            "value": "Orange",
+            "value": "Blue",
             "trait_type": "Body"
         },
         {
@@ -897,11 +845,89 @@
             "trait_type": "Role"
         },
         {
-            "value": "Round",
+            "value": "Cool",
             "trait_type": "Eyes"
         },
         {
-            "value": "Open",
+            "value": "HalfSmile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Sky",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Green",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Cool",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Serious",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Chef",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Sky",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Pink",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Closed",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "HalfSmile",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Chef",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Sky",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Red",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Closed",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Serious",
             "trait_type": "Mouth"
         },
         {
@@ -912,6 +938,58 @@
     [
         {
             "value": "Park",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Blue",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Sunglasses",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Whistle",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "none",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Rainbow",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Pink",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Cool",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Whistle",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Wizard",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Rainbow",
             "trait_type": "Background"
         },
         {
@@ -937,11 +1015,11 @@
     ],
     [
         {
-            "value": "Goo",
+            "value": "Sky",
             "trait_type": "Background"
         },
         {
-            "value": "Red",
+            "value": "Purple",
             "trait_type": "Body"
         },
         {
@@ -949,7 +1027,33 @@
             "trait_type": "Role"
         },
         {
-            "value": "Closed",
+            "value": "Round",
+            "trait_type": "Eyes"
+        },
+        {
+            "value": "Open",
+            "trait_type": "Mouth"
+        },
+        {
+            "value": "Viking",
+            "trait_type": "Hat"
+        }
+    ],
+    [
+        {
+            "value": "Park",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Pink",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Pollum",
+            "trait_type": "Role"
+        },
+        {
+            "value": "Cool",
             "trait_type": "Eyes"
         },
         {
@@ -967,7 +1071,7 @@
             "trait_type": "Background"
         },
         {
-            "value": "Green",
+            "value": "Pink",
             "trait_type": "Body"
         },
         {
@@ -975,7 +1079,7 @@
             "trait_type": "Role"
         },
         {
-            "value": "Cool",
+            "value": "Round",
             "trait_type": "Eyes"
         },
         {
@@ -989,37 +1093,11 @@
     ],
     [
         {
-            "value": "Beach",
+            "value": "City",
             "trait_type": "Background"
         },
         {
-            "value": "Gray",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Closed",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Serious",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Beach",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Blue",
+            "value": "Red",
             "trait_type": "Body"
         },
         {
@@ -1028,84 +1106,6 @@
         },
         {
             "value": "Round",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Open",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Park",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Purple",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Round",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Smile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "Irish",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Mountains",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Blue",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Cool",
-            "trait_type": "Eyes"
-        },
-        {
-            "value": "Smile",
-            "trait_type": "Mouth"
-        },
-        {
-            "value": "none",
-            "trait_type": "Hat"
-        }
-    ],
-    [
-        {
-            "value": "Mountains",
-            "trait_type": "Background"
-        },
-        {
-            "value": "Orange",
-            "trait_type": "Body"
-        },
-        {
-            "value": "Pollum",
-            "trait_type": "Role"
-        },
-        {
-            "value": "Cool",
             "trait_type": "Eyes"
         },
         {
@@ -1131,25 +1131,25 @@
             "trait_type": "Role"
         },
         {
-            "value": "Closed",
+            "value": "Round",
             "trait_type": "Eyes"
         },
         {
-            "value": "Whistle",
+            "value": "Serious",
             "trait_type": "Mouth"
         },
         {
-            "value": "none",
+            "value": "Pirate",
             "trait_type": "Hat"
         }
     ],
     [
         {
-            "value": "Sky",
+            "value": "Rainbow",
             "trait_type": "Background"
         },
         {
-            "value": "Orange",
+            "value": "Purple",
             "trait_type": "Body"
         },
         {
@@ -1157,15 +1157,15 @@
             "trait_type": "Role"
         },
         {
-            "value": "Closed",
+            "value": "Round",
             "trait_type": "Eyes"
         },
         {
-            "value": "Smile",
+            "value": "HalfSmile",
             "trait_type": "Mouth"
         },
         {
-            "value": "none",
+            "value": "Viking",
             "trait_type": "Hat"
         }
     ]

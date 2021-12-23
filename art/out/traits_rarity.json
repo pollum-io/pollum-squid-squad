@@ -3,128 +3,128 @@
     "traits": {
         "Background": {
             "Beach": {
-                "Total": 13,
-                "Percentage": 0.28888888888888886
+                "Total": 10,
+                "Percentage": 0.2222222222222222
             },
             "City": {
-                "Total": 9,
-                "Percentage": 0.2
+                "Total": 11,
+                "Percentage": 0.24444444444444444
             },
             "Goo": {
                 "Total": 2,
                 "Percentage": 0.044444444444444446
             },
             "Mountains": {
-                "Total": 9,
-                "Percentage": 0.2
+                "Total": 6,
+                "Percentage": 0.13333333333333333
             },
             "Park": {
-                "Total": 5,
-                "Percentage": 0.1111111111111111
+                "Total": 7,
+                "Percentage": 0.15555555555555556
             },
             "Rainbow": {
-                "Total": 3,
-                "Percentage": 0.06666666666666667
-            },
-            "Sky": {
                 "Total": 4,
                 "Percentage": 0.08888888888888889
+            },
+            "Sky": {
+                "Total": 5,
+                "Percentage": 0.1111111111111111
             }
         },
         "Body": {
             "Blue": {
-                "Total": 6,
-                "Percentage": 0.13333333333333333
+                "Total": 5,
+                "Percentage": 0.1111111111111111
             },
             "Gray": {
-                "Total": 3,
-                "Percentage": 0.06666666666666667
+                "Total": 4,
+                "Percentage": 0.08888888888888889
             },
             "Green": {
-                "Total": 6,
-                "Percentage": 0.13333333333333333
-            },
-            "Orange": {
                 "Total": 9,
                 "Percentage": 0.2
             },
+            "Orange": {
+                "Total": 5,
+                "Percentage": 0.1111111111111111
+            },
             "Pink": {
-                "Total": 4,
-                "Percentage": 0.08888888888888889
+                "Total": 7,
+                "Percentage": 0.15555555555555556
             },
             "Purple": {
                 "Total": 8,
                 "Percentage": 0.17777777777777778
             },
             "Red": {
-                "Total": 9,
-                "Percentage": 0.2
+                "Total": 7,
+                "Percentage": 0.15555555555555556
             }
         },
         "Eyes": {
             "Closed": {
-                "Total": 15,
-                "Percentage": 0.3333333333333333
-            },
-            "Cool": {
-                "Total": 12,
-                "Percentage": 0.26666666666666666
-            },
-            "Round": {
-                "Total": 11,
-                "Percentage": 0.24444444444444444
-            },
-            "Sunglasses": {
                 "Total": 7,
                 "Percentage": 0.15555555555555556
+            },
+            "Cool": {
+                "Total": 13,
+                "Percentage": 0.28888888888888886
+            },
+            "Round": {
+                "Total": 13,
+                "Percentage": 0.28888888888888886
+            },
+            "Sunglasses": {
+                "Total": 12,
+                "Percentage": 0.26666666666666666
             }
         },
         "Hat": {
             "Chef": {
-                "Total": 3,
-                "Percentage": 0.06666666666666667
-            },
-            "Irish": {
                 "Total": 5,
                 "Percentage": 0.1111111111111111
             },
+            "Irish": {
+                "Total": 4,
+                "Percentage": 0.08888888888888889
+            },
             "Pirate": {
-                "Total": 3,
-                "Percentage": 0.06666666666666667
+                "Total": 7,
+                "Percentage": 0.15555555555555556
             },
             "Viking": {
-                "Total": 2,
-                "Percentage": 0.044444444444444446
+                "Total": 5,
+                "Percentage": 0.1111111111111111
             },
             "Wizard": {
-                "Total": 3,
-                "Percentage": 0.06666666666666667
+                "Total": 5,
+                "Percentage": 0.1111111111111111
             },
             "none": {
-                "Total": 29,
-                "Percentage": 0.6444444444444445
+                "Total": 19,
+                "Percentage": 0.4222222222222222
             }
         },
         "Mouth": {
             "HalfSmile": {
-                "Total": 11,
-                "Percentage": 0.24444444444444444
-            },
-            "Open": {
-                "Total": 6,
-                "Percentage": 0.13333333333333333
-            },
-            "Serious": {
                 "Total": 12,
                 "Percentage": 0.26666666666666666
             },
-            "Smile": {
-                "Total": 9,
-                "Percentage": 0.2
-            },
-            "Whistle": {
+            "Open": {
                 "Total": 7,
                 "Percentage": 0.15555555555555556
+            },
+            "Serious": {
+                "Total": 11,
+                "Percentage": 0.24444444444444444
+            },
+            "Smile": {
+                "Total": 11,
+                "Percentage": 0.24444444444444444
+            },
+            "Whistle": {
+                "Total": 4,
+                "Percentage": 0.08888888888888889
             }
         },
         "Role": {

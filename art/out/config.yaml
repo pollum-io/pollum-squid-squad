@@ -1,7 +1,7 @@
 name: 'Pollum Squid Squad #{id}'
 description: Celebrating our team's journey throughout 2021, Pollum Squid Squad is a procedural pixel art PFP NFT collection airdropped to our members.
 external_link: https://pollum.io/pss
-image: ipfs://QmTyLq4tyC4BG9hnApcw7uuAeTcTw7xAMN8KCPvLooxCNq/{id}.jpg
+image: ipfs://QmbPgRNRPTS2LT2HDW9H3dgGkcx2KhmycQVAbq9RkMUqoo/{id}.jpg
 traits:
 - trait_type: Background
   variants:
@@ -9,16 +9,16 @@ traits:
     weight: 1
   - value: Rainbow
     weight: 1
+  - value: Beach
+    weight: 2
   - value: City
     weight: 2
   - value: Mountains
     weight: 2
+  - value: Park
+    weight: 2
   - value: Sky
     weight: 2
-  - value: Beach
-    weight: 3
-  - value: Park
-    weight: 3
   is_optional: false
   optional_weight: 1
 - trait_type: Body
@@ -47,10 +47,10 @@ traits:
   optional_weight: 1
 - trait_type: Eyes
   variants:
+  - value: Closed
+    weight: 1
   - value: Sunglasses
     weight: 1
-  - value: Closed
-    weight: 2
   - value: Cool
     weight: 2
   - value: Round
@@ -84,13 +84,13 @@ traits:
   - value: Wizard
     weight: 1
   is_optional: true
-  optional_weight: 6
+  optional_weight: 5
 path_map:
-  Background/Beach: ./layers/00-Background/3-Beach.png
+  Background/Beach: ./layers/00-Background/2-Beach.png
   Background/City: ./layers/00-Background/2-City.png
   Background/Goo: ./layers/00-Background/1-Goo.png
   Background/Mountains: ./layers/00-Background/2-Mountains.png
-  Background/Park: ./layers/00-Background/3-Park.png
+  Background/Park: ./layers/00-Background/2-Park.png
   Background/Rainbow: ./layers/00-Background/1-Rainbow.png
   Background/Sky: ./layers/00-Background/2-Sky.png
   Body/Blue: ./layers/01-Body/3-Blue.png
@@ -100,7 +100,7 @@ path_map:
   Body/Pink: ./layers/01-Body/3-Pink.png
   Body/Purple: ./layers/01-Body/3-Purple.png
   Body/Red: ./layers/01-Body/3-Red.png
-  Eyes/Closed: ./layers/03-Eyes/2-Closed.png
+  Eyes/Closed: ./layers/03-Eyes/1-Closed.png
   Eyes/Cool: ./layers/03-Eyes/2-Cool.png
   Eyes/Round: ./layers/03-Eyes/2-Round.png
   Eyes/Sunglasses: ./layers/03-Eyes/1-Sunglasses.png
