@@ -2,11 +2,22 @@
 
 Celebrating our team's journey throughout 2021, Pollum Squid Squad is a procedural pixel art PFP NFT collection airdroped to our members.
 
-![img](./collection.gif)
+![img](./art/collection.gif)
 
 ## Links
 
 - [IPFS](ipfs://QmTyLq4tyC4BG9hnApcw7uuAeTcTw7xAMN8KCPvLooxCNq/)
+
+## Running
+These contracts are compiled and deployed using [Hardhat](https://hardhat.org/).
+
+To prepare the dev environment, run `yarn install`. To compile the contracts, run `npx hardhat compile`. Yarn is available to install [here](https://classic.yarnpkg.com/en/docs/install/#debian-stable) if you need it.
+
+## Deploy Contract
+1. Run hardhat command
+```shell
+npx harhdat run scripts/... --network chosen-network
+```
 
 ## Generating NFT Collection
 ```
@@ -32,3 +43,6 @@ nftool provenance --images ./out/images --out ./out/provenance.json --startingIn
 mkdir -p ./out/metadata
 nftool metadata --collection ./out/collection.json --config ./out/config.yaml --out ./out/metadata
 ```
+
+## License
+MIT
