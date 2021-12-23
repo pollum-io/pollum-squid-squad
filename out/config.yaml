@@ -1,0 +1,117 @@
+name: 'Pollum Squid Squad #{id}'
+description: Celebrating our team's journey throughout 2021, Pollum Squid Squad is a procedural pixel art PFP NFT collection airdroped to our members.
+external_link: https://pollum.io/pss
+image: ipfs://QmTyLq4tyC4BG9hnApcw7uuAeTcTw7xAMN8KCPvLooxCNq/{id}.jpg
+traits:
+- trait_type: Background
+  variants:
+  - value: Goo
+    weight: 1
+  - value: Rainbow
+    weight: 1
+  - value: City
+    weight: 2
+  - value: Mountains
+    weight: 2
+  - value: Sky
+    weight: 2
+  - value: Beach
+    weight: 3
+  - value: Park
+    weight: 3
+  is_optional: false
+  optional_weight: 1
+- trait_type: Body
+  variants:
+  - value: Gray
+    weight: 1
+  - value: Blue
+    weight: 3
+  - value: Green
+    weight: 3
+  - value: Orange
+    weight: 3
+  - value: Pink
+    weight: 3
+  - value: Purple
+    weight: 3
+  - value: Red
+    weight: 3
+  is_optional: false
+  optional_weight: 1
+- trait_type: Role
+  variants:
+  - value: Pollum
+    weight: 1
+  is_optional: false
+  optional_weight: 1
+- trait_type: Eyes
+  variants:
+  - value: Sunglasses
+    weight: 1
+  - value: Closed
+    weight: 2
+  - value: Cool
+    weight: 2
+  - value: Round
+    weight: 2
+  is_optional: false
+  optional_weight: 1
+- trait_type: Mouth
+  variants:
+  - value: Open
+    weight: 1
+  - value: Whistle
+    weight: 1
+  - value: HalfSmile
+    weight: 2
+  - value: Serious
+    weight: 2
+  - value: Smile
+    weight: 2
+  is_optional: false
+  optional_weight: 1
+- trait_type: Hat
+  variants:
+  - value: Chef
+    weight: 1
+  - value: Irish
+    weight: 1
+  - value: Pirate
+    weight: 1
+  - value: Viking
+    weight: 1
+  - value: Wizard
+    weight: 1
+  is_optional: true
+  optional_weight: 6
+path_map:
+  Background/Beach: ./layers/00-Background/3-Beach.png
+  Background/City: ./layers/00-Background/2-City.png
+  Background/Goo: ./layers/00-Background/1-Goo.png
+  Background/Mountains: ./layers/00-Background/2-Mountains.png
+  Background/Park: ./layers/00-Background/3-Park.png
+  Background/Rainbow: ./layers/00-Background/1-Rainbow.png
+  Background/Sky: ./layers/00-Background/2-Sky.png
+  Body/Blue: ./layers/01-Body/3-Blue.png
+  Body/Gray: ./layers/01-Body/1-Gray.png
+  Body/Green: ./layers/01-Body/3-Green.png
+  Body/Orange: ./layers/01-Body/3-Orange.png
+  Body/Pink: ./layers/01-Body/3-Pink.png
+  Body/Purple: ./layers/01-Body/3-Purple.png
+  Body/Red: ./layers/01-Body/3-Red.png
+  Eyes/Closed: ./layers/03-Eyes/2-Closed.png
+  Eyes/Cool: ./layers/03-Eyes/2-Cool.png
+  Eyes/Round: ./layers/03-Eyes/2-Round.png
+  Eyes/Sunglasses: ./layers/03-Eyes/1-Sunglasses.png
+  Hat/Chef: ./layers/05-Hat/1-Chef.png
+  Hat/Irish: ./layers/05-Hat/1-Irish.png
+  Hat/Pirate: ./layers/05-Hat/1-Pirate.png
+  Hat/Viking: ./layers/05-Hat/1-Viking.png
+  Hat/Wizard: ./layers/05-Hat/1-Wizard.png
+  Mouth/HalfSmile: ./layers/04-Mouth/2-HalfSmile.png
+  Mouth/Open: ./layers/04-Mouth/1-Open.png
+  Mouth/Serious: ./layers/04-Mouth/2-Serious.png
+  Mouth/Smile: ./layers/04-Mouth/2-Smile.png
+  Mouth/Whistle: ./layers/04-Mouth/1-Whistle.png
+  Role/Pollum: ./layers/02-Role/1-Pollum.png

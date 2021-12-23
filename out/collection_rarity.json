@@ -1,0 +1,1352 @@
+[
+    {
+        "Index": 10,
+        "Score": 0.000010534979423868315,
+        "Attrs": [
+            {
+                "value": "Goo",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Gray",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Smile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Pirate",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 31,
+        "Score": 0.000052674897119341567,
+        "Attrs": [
+            {
+                "value": "Mountains",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Blue",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Open",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Viking",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 9,
+        "Score": 0.00005618655692729767,
+        "Attrs": [
+            {
+                "value": "Rainbow",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Purple",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Pirate",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 25,
+        "Score": 0.00006320987654320988,
+        "Attrs": [
+            {
+                "value": "City",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Red",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Open",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Viking",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 22,
+        "Score": 0.0000913031550068587,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Green",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Open",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Wizard",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 24,
+        "Score": 0.00009764365188233499,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Blue",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Sunglasses",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Wizard",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 23,
+        "Score": 0.00009876543209876544,
+        "Attrs": [
+            {
+                "value": "Park",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Red",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Smile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Chef",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 40,
+        "Score": 0.00010730071635421429,
+        "Attrs": [
+            {
+                "value": "Park",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Purple",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Smile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Irish",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 29,
+        "Score": 0.00010849294653592777,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Pink",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Sunglasses",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Irish",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 15,
+        "Score": 0.0001106172839506173,
+        "Attrs": [
+            {
+                "value": "City",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Red",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Sunglasses",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Chef",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 27,
+        "Score": 0.00012290809327846364,
+        "Attrs": [
+            {
+                "value": "Mountains",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Purple",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Whistle",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Pirate",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 1,
+        "Score": 0.00012641975308641976,
+        "Attrs": [
+            {
+                "value": "City",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Purple",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Smile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Wizard",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 42,
+        "Score": 0.00018962962962962963,
+        "Attrs": [
+            {
+                "value": "Mountains",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Orange",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Chef",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 30,
+        "Score": 0.00019314128943758574,
+        "Attrs": [
+            {
+                "value": "City",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Green",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Irish",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 11,
+        "Score": 0.00029042727226540673,
+        "Attrs": [
+            {
+                "value": "Sky",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Green",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Whistle",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 28,
+        "Score": 0.0003138545953360768,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Orange",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Smile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Irish",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 3,
+        "Score": 0.00031682975156226183,
+        "Attrs": [
+            {
+                "value": "Sky",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Blue",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Sunglasses",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 21,
+        "Score": 0.00035643347050754457,
+        "Attrs": [
+            {
+                "value": "City",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Pink",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Sunglasses",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Smile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 18,
+        "Score": 0.00039506172839506176,
+        "Attrs": [
+            {
+                "value": "City",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Orange",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "Irish",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 6,
+        "Score": 0.0003960371894528273,
+        "Attrs": [
+            {
+                "value": "Park",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Purple",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Sunglasses",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Smile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 36,
+        "Score": 0.00046675811614083215,
+        "Attrs": [
+            {
+                "value": "Goo",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Red",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 2,
+        "Score": 0.000551623228166438,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Gray",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Open",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 12,
+        "Score": 0.0005601097393689987,
+        "Attrs": [
+            {
+                "value": "Rainbow",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Red",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 35,
+        "Score": 0.000570482141949906,
+        "Attrs": [
+            {
+                "value": "Park",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Green",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 0,
+        "Score": 0.0006237585733882032,
+        "Attrs": [
+            {
+                "value": "City",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Orange",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Sunglasses",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Whistle",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 44,
+        "Score": 0.0007637860082304527,
+        "Attrs": [
+            {
+                "value": "Sky",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Orange",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Smile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 19,
+        "Score": 0.0007637860082304527,
+        "Attrs": [
+            {
+                "value": "Rainbow",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Red",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 39,
+        "Score": 0.0008090474013107758,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Blue",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Open",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 34,
+        "Score": 0.0008401646090534981,
+        "Attrs": [
+            {
+                "value": "Mountains",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Orange",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Open",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 13,
+        "Score": 0.0008580805771477924,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Pink",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Whistle",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 41,
+        "Score": 0.0009165432098765434,
+        "Attrs": [
+            {
+                "value": "Mountains",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Blue",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Smile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 33,
+        "Score": 0.0009335162322816643,
+        "Attrs": [
+            {
+                "value": "Sky",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Orange",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 14,
+        "Score": 0.0009504892546867855,
+        "Attrs": [
+            {
+                "value": "City",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Purple",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Whistle",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 8,
+        "Score": 0.0009888357127131704,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Pink",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 4,
+        "Score": 0.0010183813443072705,
+        "Attrs": [
+            {
+                "value": "Park",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Red",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 38,
+        "Score": 0.001103246456332876,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Gray",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 26,
+        "Score": 0.0011202194787379974,
+        "Attrs": [
+            {
+                "value": "Mountains",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Blue",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 37,
+        "Score": 0.0012220576131687245,
+        "Attrs": [
+            {
+                "value": "City",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Green",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 32,
+        "Score": 0.0012585181798167623,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Purple",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Whistle",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 43,
+        "Score": 0.0013366255144032927,
+        "Attrs": [
+            {
+                "value": "Mountains",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Orange",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Whistle",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 16,
+        "Score": 0.0014002743484224968,
+        "Attrs": [
+            {
+                "value": "Mountains",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Green",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 7,
+        "Score": 0.0021004115226337453,
+        "Attrs": [
+            {
+                "value": "Mountains",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Orange",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 5,
+        "Score": 0.0024271422039323274,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Red",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Round",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "Serious",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 17,
+        "Score": 0.0024271422039323274,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Red",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Cool",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    },
+    {
+        "Index": 20,
+        "Score": 0.0026968246710359195,
+        "Attrs": [
+            {
+                "value": "Beach",
+                "trait_type": "Background"
+            },
+            {
+                "value": "Purple",
+                "trait_type": "Body"
+            },
+            {
+                "value": "Pollum",
+                "trait_type": "Role"
+            },
+            {
+                "value": "Closed",
+                "trait_type": "Eyes"
+            },
+            {
+                "value": "HalfSmile",
+                "trait_type": "Mouth"
+            },
+            {
+                "value": "none",
+                "trait_type": "Hat"
+            }
+        ]
+    }
+]
