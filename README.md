@@ -6,7 +6,7 @@ Celebrating our team's journey throughout 2021, Pollum Squid Squad is a procedur
 
 ## Links
 
-- [IPFS](ipfs://QmTyLq4tyC4BG9hnApcw7uuAeTcTw7xAMN8KCPvLooxCNq/)
+- [IPFS]("ipfs://QmTyLq4tyC4BG9hnApcw7uuAeTcTw7xAMN8KCPvLooxCNq/")
 
 ## Running
 These contracts are compiled and deployed using [Hardhat](https://hardhat.org/).
