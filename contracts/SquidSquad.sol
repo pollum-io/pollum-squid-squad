@@ -30,11 +30,12 @@
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract SquidSquad is ERC721URIStorage, ERC721Enumerable {
+contract SquidSquad is ERC721URIStorage, ERC721Enumerable, Ownable {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
 
@@ -47,6 +48,7 @@ contract SquidSquad is ERC721URIStorage, ERC721Enumerable {
 
     function mint(address payable _recipient, string memory _metadata)
         external
+        onlyOwner
         returns (uint256)
     {
         uint256 itemId = _tokenIds.current();
