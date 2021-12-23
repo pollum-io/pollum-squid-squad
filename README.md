@@ -8,7 +8,7 @@ Celebrating our team's journey throughout 2021, Pollum Squid Squad is a procedur
 
 - IPFS Optimized Images - [ipfs://QmcFASTWJ8cXouSfFG5ScTGSeMF59CWhU5YfAGRtrXu1VT/](https://bafybeigoto7ynrphrb4wc62jv62pfwjqsfoduikndzxvzydiut4le74f2i.ipfs.dweb.link/)
 - IPFS HD Images - [ipfs://QmbPgRNRPTS2LT2HDW9H3dgGkcx2KhmycQVAbq9RkMUqoo/](https://bafybeigb52nyxn7vwj2cc7orfl2nyexhfkhxgwrauar6leqwdxms3drmwi.ipfs.dweb.link/)
-- IPFS Metadata - [ipfs://Qma9y1euWEKs1zuP3pKWi7bNTG6o9pnmobw5f38jBtPXB2/](https://bafybeifpr6gis3vsvlsv4qyhalvsoounzlgwpgd4l3ghqvbg75w5vqsmlu.ipfs.dweb.link/)
+- IPFS Metadata - [ipfs://QmQqZLH7nDJhzN5X9MbTqyMhV9VLQbLgAETKdKhGV27YBK/](https://bafybeibfd4rwktd4tbxcjyxnxmkqdurb36omtthrqcog6lyv6lweu2ve6i.ipfs.dweb.link/)
 
 ## Running
 These contracts are compiled and deployed using [Hardhat](https://hardhat.org/).
