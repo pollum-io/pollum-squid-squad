@@ -3,20 +3,28 @@ const { ethers } = require('hardhat');
 async function main() {
     // Get the contract to deploy
     const ContractFactory = await ethers.getContractFactory("SquidSquad");
-    const squid = ContractFactory.attach("0x4ECD14ac3581f829a4f5Cd259E6Dc8a8eE8d64BD");
-    const owner = "0x0a1c3312c808b23D019bF241028f6B5624f4cc98";
+    const squid = ContractFactory.attach("0xab17FD4889Cc03AFC5CFB4bC85a52BFc2BE831b4");
+    const owner = "0xAa93866E06c2Ec1fBDb5037D5495a3Aa6DB8F897";
 
-    var hashs = "ipfs://QmSEopRomudWwpJecLJ9J4wcfa6Tm6ePDXsPLS9xyddvqG/"
+    var hashs = "ipfs://QmQqZLH7nDJhzN5X9MbTqyMhV9VLQbLgAETKdKhGV27YBK/"
 
-    for (var i = 0; i < 45; i++) {
+    const index = (await squid.totalSupply()).toNumber();
+    // for (var i = 0; i < 45; i++) {
 
-        const txid = await squid.mint(
-            owner,
-            hashs + i,
-        );
-        console.log("Txid for: ", txid);
+    const txid = await squid.mintSquid(
+        owner,
+        hashs + index,
+    );
+    console.log("Txid for: ", txid.hash);
+    console.log(index)
 
-    }
+    // }
+    // const txid = await squid.mint(
+    //     owner,
+    //     hashs + index,
+    // );
+    // console.log("Txid for: ", txid.hash);
+    // console.log(hashs + index)
 }
 
 main()

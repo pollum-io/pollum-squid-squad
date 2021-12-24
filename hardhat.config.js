@@ -29,8 +29,8 @@ module.exports = {
       url: process.env.POLYGON_ENDPOINT,
       accounts: [process.env.DEPLOY_ACCOUNT_PRIVATE_KEY],
       timeout: 2000000,
-      gasPrice: 150000000000,
-      gasMultiplier: 1.5
+      gasPrice: 100000000000,
+      gasMultiplier: 2
     }
   },
   etherscan: {

@@ -46,7 +46,7 @@ contract SquidSquad is ERC721URIStorage, ERC721Enumerable, Ownable {
         ERC721(name, symbol)
     {}
 
-    function mint(address payable _recipient, string memory _metadata)
+    function mintSquid(address payable _recipient, string memory _metadata)
         external
         onlyOwner
         returns (uint256)
