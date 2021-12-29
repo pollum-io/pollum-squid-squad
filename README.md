@@ -6,6 +6,7 @@ Celebrating our team's journey throughout 2021, Pollum Squid Squad is a procedur
 
 ## Links
 
+- Contract - [0xab17fd4889cc03afc5cfb4bc85a52bfc2be831b4](https://polygonscan.com/address/0xab17fd4889cc03afc5cfb4bc85a52bfc2be831b4) 
 - IPFS Optimized Images - [ipfs://QmcFASTWJ8cXouSfFG5ScTGSeMF59CWhU5YfAGRtrXu1VT/](https://bafybeigoto7ynrphrb4wc62jv62pfwjqsfoduikndzxvzydiut4le74f2i.ipfs.dweb.link/)
 - IPFS HD Images - [ipfs://QmbPgRNRPTS2LT2HDW9H3dgGkcx2KhmycQVAbq9RkMUqoo/](https://bafybeigb52nyxn7vwj2cc7orfl2nyexhfkhxgwrauar6leqwdxms3drmwi.ipfs.dweb.link/)
 - IPFS Metadata - [ipfs://QmQqZLH7nDJhzN5X9MbTqyMhV9VLQbLgAETKdKhGV27YBK/](https://bafybeibfd4rwktd4tbxcjyxnxmkqdurb36omtthrqcog6lyv6lweu2ve6i.ipfs.dweb.link/)
