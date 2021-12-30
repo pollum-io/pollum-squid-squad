@@ -1,0 +1,21 @@
+{
+    "contract_address": "0xab17FD4889Cc03AFC5CFB4bC85a52BFc2BE831b4",
+    "contract_link": "https://polygonscan.com/address/0xab17FD4889Cc03AFC5CFB4bC85a52BFc2BE831b4",
+    "metadata_ipfs": [
+        {"pollum": "QmQqZLH7nDJhzN5X9MbTqyMhV9VLQbLgAETKdKhGV27YBK" } ,
+        {"blockverso": "QmQKWPCyxiFRwqfZhuHoFsPhdiwdxP1uBuLE2MH2Ka9dpT" }
+    ],
+    "metadata_link": [
+        {"pollum": "https://gateway.pinata.cloud/ipfs/QmQqZLH7nDJhzN5X9MbTqyMhV9VLQbLgAETKdKhGV27YBK" } ,
+        {"blockverso": "https://gateway.pinata.cloud/ipfs/QmQKWPCyxiFRwqfZhuHoFsPhdiwdxP1uBuLE2MH2Ka9dpT" }
+    ],
+    "images_ipfs": [
+        {"pollum": "QmcFASTWJ8cXouSfFG5ScTGSeMF59CWhU5YfAGRtrXu1VT" } ,
+        {"blockverso": "QmTdr1fV8QeEJRDxZMbUoujRPiDoD3kgQHnSjGZL4u5o6B" }
+    ],
+    "images_link": [
+        {"pollum": "https://gateway.pinata.cloud/ipfs/QmcFASTWJ8cXouSfFG5ScTGSeMF59CWhU5YfAGRtrXu1VT" } ,
+        {"blockverso": "https://gateway.pinata.cloud/ipfs/QmTdr1fV8QeEJRDxZMbUoujRPiDoD3kgQHnSjGZL4u5o6B" },
+        {"pollum_hd": "https://gateway.pinata.cloud/ipfs/QmbPgRNRPTS2LT2HDW9H3dgGkcx2KhmycQVAbq9RkMUqoo" }
+    ]
+}

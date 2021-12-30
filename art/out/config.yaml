@@ -43,6 +43,8 @@ traits:
   variants:
   - value: Pollum
     weight: 1
+  - value: Blockverso
+    weight: 1
   is_optional: false
   optional_weight: 1
 - trait_type: Eyes
@@ -115,3 +117,4 @@ path_map:
   Mouth/Smile: ./layers/04-Mouth/2-Smile.png
   Mouth/Whistle: ./layers/04-Mouth/1-Whistle.png
   Role/Pollum: ./layers/02-Role/1-Pollum.png
+  Role/Blockverso: ./layers/02-Role/1-Blockverso.png

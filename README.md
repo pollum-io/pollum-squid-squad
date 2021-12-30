@@ -5,11 +5,10 @@ Celebrating our team's journey throughout 2021, Pollum Squid Squad is a procedur
 ![img](./art/gifs/collection-compressed.gif)
 
 ## Links
-
-- Contract - [0xab17fd4889cc03afc5cfb4bc85a52bfc2be831b4](https://polygonscan.com/address/0xab17fd4889cc03afc5cfb4bc85a52bfc2be831b4) 
-- IPFS Optimized Images - [ipfs://QmcFASTWJ8cXouSfFG5ScTGSeMF59CWhU5YfAGRtrXu1VT/](https://bafybeigoto7ynrphrb4wc62jv62pfwjqsfoduikndzxvzydiut4le74f2i.ipfs.dweb.link/)
-- IPFS HD Images - [ipfs://QmbPgRNRPTS2LT2HDW9H3dgGkcx2KhmycQVAbq9RkMUqoo/](https://bafybeigb52nyxn7vwj2cc7orfl2nyexhfkhxgwrauar6leqwdxms3drmwi.ipfs.dweb.link/)
-- IPFS Metadata - [ipfs://QmQqZLH7nDJhzN5X9MbTqyMhV9VLQbLgAETKdKhGV27YBK/](https://bafybeibfd4rwktd4tbxcjyxnxmkqdurb36omtthrqcog6lyv6lweu2ve6i.ipfs.dweb.link/)
+- IPFS Data - [ipfs://QmYo3bR84ETCumjxk9Aq8hG7kovx16TdkEckFhfuD4e2X4/](https://gateway.pinata.cloud/ipfs/QmYo3bR84ETCumjxk9Aq8hG7kovx16TdkEckFhfuD4e2X4)
+- Contract - [0xab17fd4889cc03afc5cfb4bc85a52bfc2be831b4](https://polygonscan.com/address/0xab17fd4889cc03afc5cfb4bc85a52bfc2be831b4)
+- [Luxy Collection](https://beta.luxy.io/collection/0xab17FD4889Cc03AFC5CFB4bC85a52BFc2BE831b4)
+- [OpenSea Collection](https://opensea.io/collection/pollum/)
 
 ## Running
 These contracts are compiled and deployed using [Hardhat](https://hardhat.org/).
